@@ -11,7 +11,7 @@ function App() {
     <>
       <div>
           <Button className="bg-red-400">기본버튼</Button>
-          <Button>기본버튼</Button>
+          <Button>기본2버튼</Button>
           <Button>기본버튼</Button>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
